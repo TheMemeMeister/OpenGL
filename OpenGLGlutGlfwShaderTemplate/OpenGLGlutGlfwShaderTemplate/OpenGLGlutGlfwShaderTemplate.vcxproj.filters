@@ -21,20 +21,63 @@
     <ClCompile Include="testGlFW.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="prepShader.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="testGlutWithShader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="testGlfwWithShader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="prepShader.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <ClCompile Include="week2-1-Triangles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-2-Sierpenski2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-3-Sierpenski3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-4-Tetrahedron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-5-Tetrahedron2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-6-DynamicTriangles-mouse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-7-RotatingTriangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-8-RotatingTriangle-DoubleBuffering.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week2-10-Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Week2\prepShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week1-1-Triangles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week1-2-Sierpenski.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week1-3-Sierpenski_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week1-4-Square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week1-5-Square-interleaved.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week1-6-TriangleAndSquare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GAME2012_A1_MilmanYaniv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cube.frag">
@@ -43,5 +86,41 @@
     <None Include="cube.vert">
       <Filter>Header Files</Filter>
     </None>
+    <None Include="tetrahedron.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="tetrahedron.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="triangles.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="triangles.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Desktop\Year 2 Semester1\3d\GAME2012_W02_Lecture\GAME2012_W02_Lecture\FirstExample\projection.vert">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Week2\prepShader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadShaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Desktop\Year 2 Semester1\3d\GAME2012_W02_Lecture\GAME2012_W02_Lecture\include\vgl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Week1\EulerAngles.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\..\..\..\Desktop\Year 2 Semester1\3d\GAME2012_W02_Lecture\GAME2012_W02_Lecture\lib\glew_static_vs2010_d.lib">
+      <Filter>Resource Files</Filter>
+    </Library>
   </ItemGroup>
 </Project>

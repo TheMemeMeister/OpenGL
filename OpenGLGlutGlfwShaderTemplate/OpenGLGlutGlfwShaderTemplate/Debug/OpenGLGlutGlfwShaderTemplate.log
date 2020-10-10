@@ -1,0 +1,4 @@
+﻿  week2-9-Square.cpp
+C:\Users\Yaniv\Documents\GitHub\OpenGL\OpenGLGlutGlfwShaderTemplate\OpenGLGlutGlfwShaderTemplate\week2-9-Square.cpp(191,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+week2-9-Square.obj : error LNK2019: unresolved external symbol _LoadShaders referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+C:\Users\Yaniv\Documents\GitHub\OpenGL\OpenGLGlutGlfwShaderTemplate\Debug\OpenGLGlutGlfwShaderTemplate.exe : fatal error LNK1120: 1 unresolved externals
