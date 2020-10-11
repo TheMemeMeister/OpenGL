@@ -75,7 +75,7 @@
     <ClCompile Include="week1-6-TriangleAndSquare.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GAME2012_A1_MilmanYaniv.cpp">
+    <ClCompile Include="Week5-1-OrthographicProjection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -99,6 +99,21 @@
       <Filter>Header Files</Filter>
     </None>
     <None Include="..\..\..\..\..\Desktop\Year 2 Semester1\3d\GAME2012_W02_Lecture\GAME2012_W02_Lecture\FirstExample\projection.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cube2.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cube3.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cube4.vert">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cubeProjection.frag">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cubeProjection.vert">
       <Filter>Header Files</Filter>
     </None>
   </ItemGroup>
